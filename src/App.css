@@ -1,0 +1,26 @@
+
+.count-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.count-main button {
+    margin-top: 50px;
+    padding: 10px 20px;
+    background-color: rgb(5, 92, 92);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    transition: all .3s ease;
+    transform: scale(1); 
+}
+
+.count-main button:hover {
+    transform: scale(1.02); 
+
+}
+
+
+
